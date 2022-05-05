@@ -37,10 +37,10 @@ const About = () => {
               <small> 10</small>
 
             </article>
-
-            <div>
+ 
+             <div>
               <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil numquam eius ratione explicabo nemo libero, error doloribus similique voluptates provident voluptatem et laborum sapiente magnam qui dignissimos officia modi facilis?
+                 Hi, this is me and i nthis beautiful days i would like to thank almighty god for giving me chances to enjoy on this beautiful creatuvity
               </p>
 
               <a href='#contact' className='btn btn-primary'>Let's Talk</a>
